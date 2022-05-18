@@ -3,6 +3,7 @@
  * @param {number} target
  * @return {number[]}
  */
+// 拿个对象当哈希表
 var twoSum = function (nums, target) {
     let dict = {}
     let y
